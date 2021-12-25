@@ -1,0 +1,13 @@
+{
+  "name": "dot-matrix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Park <atpark333@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
